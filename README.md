@@ -31,8 +31,8 @@
 
 ### About Me
 
-<div align="center">
-  <img src="terminal.svg" alt="terminal" width="50%" />
+<div align="left">
+  <img src="terminal.svg" alt="terminal" width="80%" />
 </div>
 
 <!-- ```bash
