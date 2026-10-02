@@ -35,7 +35,7 @@
   <img src="terminal.svg" alt="terminal" width="80%" />
 </div>
 
-<-- ```bash
+<!-- ```bash
 fakhri@github:~$ whoami
 fakhri 
 
