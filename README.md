@@ -1,11 +1,9 @@
-<div data-importer="image" align="center">
-  <img data-importer="image" height="150" src="kurukuru.gif"  />
-</div>
+<br/>
+<img data-importer="image" align="right" height="200" src="kurukuru.gif"  />
 
-
-
-<div data-importer="socials" align="center">
-    <a href="https://github.com/FakhriZaidi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<h2 data-importer="text" align="left">Fakhri Zaidi Djulistiawan</h2>
+<div data-importer="socials" align="left">
+    <a href="https://github.com/FakhriZaidi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="25" /></a>
     <a href="https://www.instagram.com/ryy_zaid?stkn=cWgxY3EzNnRsNXNk"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  /></a>
     <a href="https://discord.gg/xXbcTJp5"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  /></a>
     <a href="mailto:fakhrizaidi717@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  /></a>
@@ -13,16 +11,21 @@
 
 
 
-<div data-importer="profile-views" align="center">
+<div data-importer="profile-views" align="left">
   <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=FakhriZaidi.FakhriZaidi&"  />
 </div>
 
 
-<a href="https://git.io/typing-svg">
+<!-- <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=ffffff&center=true&vCenter=true&width=600&lines=Hei+There+%F0%9F%91%8B;
   Feel+free+to+look+around+my+profile+:>" alt="Typing SVG" />
-</a>
+</a> -->
 
+
+
+
+<br/>
+<br/>
 <br/>
 
 
