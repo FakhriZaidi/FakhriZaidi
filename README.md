@@ -31,11 +31,11 @@
 
 ### About Me
 
-<div align="left">
+<!-- <div align="left">
   <img src="terminal.svg" alt="terminal" width="80%" />
-</div>
+</div> -->
 
-<!-- ```bash
+```bash
 fakhri@github:~$ whoami
 fakhri 
 
@@ -59,8 +59,7 @@ fakhri@github:~$ sudo cat skills.txt
 fakhri is not in the sudoers file. This incident will be reported.
 
 fakhri@github:~$ _
-
-``` -->
+```
 
 <br/>
 
