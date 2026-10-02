@@ -32,7 +32,7 @@
 ### About Me
 
 <div align="center">
-  <img src="terminal.svg" alt="terminal" width="100%" />
+  <img src="terminal.svg" alt="terminal" width="50%" />
 </div>
 
 <!-- ```bash
