@@ -1,7 +1,7 @@
 <br/>
 <img data-importer="image" align="right" height="200" src="kurukuru.gif"  />
 
-<h2 data-importer="text" align="left">Fakhri Zaidi Djulistiawan</h2>
+## Fakhri Zaidi Djulistiawan
 <div data-importer="socials" align="left">
     <a href="https://github.com/FakhriZaidi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="25" /></a>
     <a href="https://www.instagram.com/ryy_zaid?stkn=cWgxY3EzNnRsNXNk"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  /></a>
